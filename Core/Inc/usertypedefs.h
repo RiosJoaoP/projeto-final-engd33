@@ -10,9 +10,3 @@ typedef struct {
     float z;
     TickType_t timestamp;
 } dataset;
-
-typedef struct {
-	dataset dados[TAMANHO_BUFFER];
-	uint16_t startIndex;
-	uint16_t posicoesPreenchidas;
-} circle_buffer;
