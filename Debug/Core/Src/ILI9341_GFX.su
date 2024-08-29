@@ -1,0 +1,5 @@
+../Core/Src/ILI9341_GFX.c:7:6:ILI9341_DrawHollowRectangleCoord	40	static
+../Core/Src/ILI9341_GFX.c:53:6:ILI9341_DrawFilledRectangleCoord	48	static
+../Core/Src/ILI9341_GFX.c:95:6:ILI9341_DrawChar	64	static
+../Core/Src/ILI9341_GFX.c:126:6:ILI9341_DrawText	48	static
+../Core/Src/ILI9341_GFX.c:154:6:ILI9341_DrawLine	48	static
